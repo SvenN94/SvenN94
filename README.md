@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/itzbillie"><img src="https://api.daily.dev/devcards/04c61567bbc6464c8bca205ce59ddadb.png?r=er2" width="400" alt="sven Nelles's Dev Card"/></a>
 <!--
 **SvenN94/SvenN94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
